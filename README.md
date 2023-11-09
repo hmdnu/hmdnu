@@ -1,5 +1,6 @@
-<h1 align="center">Hello,👋 I'm Hamdan</h1>
-<h3 align="center">I'm a web developer</h3>
+<img src="" alt="image" />
+<h1 align="left">Hello,👋 I'm Hamdan</h1>
+<h3 align="left">I'm a web developer</h3>
 
 - 👨‍💻 All of my projects are available at [https://hamdanu.vercel.app](https://hamdanu.vercel.app)
 
