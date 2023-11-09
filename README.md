@@ -1,5 +1,5 @@
 <h1 align="center">Hello,👋 I'm Hamdan</h1>
-<h3 align="center">I'm a web developer eu</h3>
+<h3 align="center">I'm a web developer</h3>
 
 - 👨‍💻 All of my projects are available at [https://hamdanu.vercel.app](https://hamdanu.vercel.app)
 
