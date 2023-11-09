@@ -1,4 +1,4 @@
-<img src="" alt="image" />
+<img src="https://media.tenor.com/zH-NegQceRsAAAAC/bocchi-bocchi-the-rock.gif" alt="image" width="300" height="300" />
 <h1 align="left">Hello,👋 I'm Hamdan</h1>
 <h3 align="left">I'm a web developer</h3>
 
