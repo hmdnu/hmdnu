@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello folks! 👋 <br>My name is Hamdan.<br>I like Web Development.<br>I'm from East Java Indonesia.<br>I'm currently studying in State Polytechnic of Malang as a Computer Science student.<br>I'm currently learning about Mobile Development<br>
+Hello folks! 👋 <br>My name is Hamdan.<br>I like Web Development.<br>I'm from East Java Indonesia.<br>I'm currently studying in State Polytechnic of Malang as a Computer Science student.<br>
 
 
 ## 🌐 Socials:
